@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BTU Clasroom</string>
+    <string name="MailEditText">ელ.ფოსტა ან პ. ნომერი</string>
+    <string name="PassEditText">პაროლი</string>
+    <string name="SignInBtn">შესვლა</string>
+    <string name="SignUpBtn">რეგისტრაცია</string>
+    <string name="RememberLogIn">დაიმახსოვრე</string>
+</resources>

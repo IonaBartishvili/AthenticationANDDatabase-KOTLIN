@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276446262321",
+    "firebase_url": "https://btu-classroom-test-1-7733a.firebaseio.com",
+    "project_id": "btu-classroom-test-1-7733a",
+    "storage_bucket": "btu-classroom-test-1-7733a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276446262321:android:30ec08df0852713249d110",
+        "android_client_info": {
+          "package_name": "com.example.btuclasroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276446262321-79n3tvacidb25grkd5j447kl88sk9urm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btuclasroom",
+            "certificate_hash": "8aacbf7e0de68130847d44a1e81aa3db2dba96d9"
+          }
+        },
+        {
+          "client_id": "276446262321-9ti13ib8ph38mpehd56qeg4mc7mekfes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeiGZwJhWE8439FJ0GVcwmyaAXmsSIidw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276446262321-9ti13ib8ph38mpehd56qeg4mc7mekfes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
